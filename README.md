@@ -4,6 +4,10 @@
 
 - Making things as simple as possible for "average Joe" designers, developers, product managers, etc... to readily understand the experiences of people with disabilities, leaving no viable economic argument for not making products accessible.
 
+## Observability
+
+- Making it as easy as possible for engineers to ask arbitrary questions of the humans, code, and infrastructure comprising the sociotechnical systems they are responsible for
+
 ## Testing
 
 - Minimizing regressions while spending the least amount of effort possible doing so
