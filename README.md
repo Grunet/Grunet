@@ -2,7 +2,7 @@
 
 ## Web Accessibility
 
-- Making things as simple as possible for "average Joe" designers, developers, product managers, etc... to readily understand the experiences of people with disabilities, leaving no viable economic argument for not making products accessible.
+- Making things as simple as possible for every researcher, designer, developer, product manager, etc... to readily understand the experiences of disabled people, leaving no viable economic argument for not making products accessible.
 
 ## Observability
 
